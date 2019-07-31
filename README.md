@@ -12,3 +12,11 @@ In React:
 And in XReact:
     Instead of <a href="/"> we use XReact.createElement(Link, { to: '/' }, 'link'),
 ```
+
+## Things not covered
+
+```
+1. Support of Route tag
+2. Support of Exact keyword
+3. increase hierarchy
+```
